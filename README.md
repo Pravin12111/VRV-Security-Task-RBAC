@@ -21,13 +21,13 @@ This project demonstrates how to implement Role-Based Access Control (RBAC) in a
 ## **Demo**
 
 ### **Register**
-![Register page](C:\Users\hp\OneDrive\Desktop\react-rbac\Images\Register.png)  
+![Register page](./Images/Register.png)  
 
 ### **Login**
-![Login Page](C:\Users\hp\OneDrive\Desktop\react-rbac\Images\Login.png)  
+![Login Page](./Images/Login.png)  
 
 ### **Access Dashboard**
-![Admin Dashboard](C:\Users\hp\OneDrive\Desktop\react-rbac\Images\Access Dashboard.png)  
+![Admin Dashboard](./Images\AccessDashboard.png)  
 *Admins and user can access specific features.*
 
 ---
