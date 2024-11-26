@@ -1,6 +1,5 @@
 # **React Application with Role-Based Access Control (RBAC)**
 
-![React App Banner](https://via.placeholder.com/1200x400?text=React+Role-Based+Access+Control+App)  
 *Effortlessly manage access levels with a robust and scalable React application.*
 
 ---
@@ -21,17 +20,15 @@ This project demonstrates how to implement Role-Based Access Control (RBAC) in a
 
 ## **Demo**
 
-### **Admin View**
-![Admin Dashboard](https://via.placeholder.com/800x400?text=Admin+Dashboard)  
-*Admins can access all features, including user management and content creation.*
+### **Register**
+![Register page](C:\Users\hp\OneDrive\Desktop\react-rbac\Images\Register.png)  
 
-### **Editor View**
-![Editor Dashboard](https://via.placeholder.com/800x400?text=Editor+Dashboard)  
-*Editors can modify content but have restricted access to user management.*
+### **Login**
+![Login Page](C:\Users\hp\OneDrive\Desktop\react-rbac\Images\Login.png)  
 
-### **Viewer View**
-![Viewer Dashboard](https://via.placeholder.com/800x400?text=Viewer+Dashboard)  
-*Viewers can only browse the content with no editing privileges.*
+### **Access Dashboard**
+![Admin Dashboard](C:\Users\hp\OneDrive\Desktop\react-rbac\Images\Access Dashboard.png)  
+*Admins and user can access specific features.*
 
 ---
 
