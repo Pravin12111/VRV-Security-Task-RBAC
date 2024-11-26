@@ -27,7 +27,7 @@ This project demonstrates how to implement Role-Based Access Control (RBAC) in a
 ![Login Page](./Images/Login.png)  
 
 ### **Access Dashboard**
-![Access Dashboard](./Images\AccessDashboard.png)  
+![Access Dashboard](./Images/Dashboard.png)  
 *Admins and user can access specific features.*
 
 ---
