@@ -1,74 +1,54 @@
-<<<<<<< HEAD
-# Getting Started with Create React App
+# **React Application with Role-Based Access Control (RBAC)**
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+![React App Banner](https://via.placeholder.com/1200x400?text=React+Role-Based+Access+Control+App)  
+*Effortlessly manage access levels with a robust and scalable React application.*
 
-## Available Scripts
+---
 
-In the project directory, you can run:
+## **Overview**
+This project demonstrates how to implement Role-Based Access Control (RBAC) in a React application. It uses `JSON Server` as a mock backend to manage user roles, permissions, and API responses for seamless prototyping and development.
 
-### `npm start`
+---
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+## **Features**
+- 🔒 **Role-Based Access Control**: Granular control over user access based on roles (`Admin`, `Editor`, `Viewer`).
+- ⚡ **Mock Backend**: Powered by JSON Server for rapid prototyping.
+- 💻 **Dynamic Rendering**: Conditionally render UI components based on user roles.
+- 📊 **Scalable Design**: Modular and reusable code structure.
+- 🎨 **User-Friendly Interface**: A clean and responsive layout for better usability.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+---
 
-### `npm test`
+## **Demo**
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+### **Admin View**
+![Admin Dashboard](https://via.placeholder.com/800x400?text=Admin+Dashboard)  
+*Admins can access all features, including user management and content creation.*
 
-### `npm run build`
+### **Editor View**
+![Editor Dashboard](https://via.placeholder.com/800x400?text=Editor+Dashboard)  
+*Editors can modify content but have restricted access to user management.*
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+### **Viewer View**
+![Viewer Dashboard](https://via.placeholder.com/800x400?text=Viewer+Dashboard)  
+*Viewers can only browse the content with no editing privileges.*
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+---
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+## **Getting Started**
 
-### `npm run eject`
+### **1. Prerequisites**
+Ensure you have the following installed:
+- Node.js (>= 14.x)
+- npm (>= 6.x)
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+---
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+### **2. Installation**
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+Clone this repository and install dependencies:
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
-
-## Learn More
-
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
-
-To learn React, check out the [React documentation](https://reactjs.org/).
-
-### Code Splitting
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
-
-### Analyzing the Bundle Size
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
-
-### Making a Progressive Web App
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
-
-### Advanced Configuration
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
-
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
-=======
-# VRV-Security-Task-RBAC
->>>>>>> 32dffa515bcfd0b35594d3f8caafaeb34112a344
+```bash
+git clone https://github.com/your-username/react-rbac-app.git
+cd react-rbac-app
+npm install
